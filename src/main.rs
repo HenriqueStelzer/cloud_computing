@@ -1,7 +1,7 @@
-mod three;
+// mod three;
 
+// use three::*;
 use leptos::prelude::*;
-use three::*;
 
 fn main() {
     mount_to_body(App);
