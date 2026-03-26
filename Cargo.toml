@@ -1,0 +1,8 @@
+[package]
+name = "cloud_computing"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+leptos = "0.8.17"
+trunk = "0.21.14"
